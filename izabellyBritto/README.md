@@ -1,22 +1,26 @@
+
 <div align="center">
     <img src="./images/bg.webp" alt="Preview">
 </div>
 
-### Olá!👋 Eu sou izabelly🍊
+### Olá!🌺 Eu sou izabelly 🍄
 
 **Web Developer and Gamer**
 
-<div align="center">
+<div align="left">
     <h2>☕ About me</h2>
-    <div style="display: flex; align-items: center;">
-        <img align="left" style="height: 160px; width: 160px; margin-right: 30px;" src="https://github.com/D3FaltXD/D3FaltXD/blob/393d40d3d54282dbc54742aa20df06f7b9a8ef7a/Images/left%20img%201.png">
+    <div style="display: flex; align-items: left;">
+        <img align="left" alt="animated" width="120" height="120" ;" src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-359.gif">
         <p>
-            - pursuing a bachelor's degree in computer science. 26th batch of Cyber Security (Hons) graduates<br>
-            - I'm studying Python and C++ right now for <a href="https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series" target="_blank">140 DSA Lec</a><br>
-            - I'm open to freelance work.<br>
-            - Let's talk about <b>Graphics Design</b><br>
-            - How to contact me: <b>kalistoroy619@gmail.com</b><br>
-            - Know about my experiences <a href="https://github.com/D3FaltXD/Resume/blob/main/090519452530.pdf">here</a>
+            - 🖥️ Sou estudante de gradução em Análise e Desenvolvimento de Sistemas.<br>
+            - 👩‍🚀 Atualmente faço graduação no curso de Análise e Desenvolvimento de Sistemas na Fatec Jales.<br>
+            - 👩‍🎓 Sou formada no curso de Técnico em Desenvolvimento de Sistemas pela Etec Jales.<br>
+            - 👾 Dedico meu tempo livre para aprender coisas novas, sobre programação e tecnologias novas<br>
+            ㅤutilizadas no mercado atualmente.
+        </a>
+        <br>
+        <br>
+        <br>
         </p>
     </div>
 </div>
@@ -40,18 +44,38 @@
      <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
 </p>
 
-## **Portfólio**
-<p align="center">
-    <a href="LINK_PARA_O_SEU_PORTFOLIO" style="background-color: #0D1117; color: #ffffff; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Ver Portfólio</a>
-</p>
+# Contact Me :
 
-## **Cutie Counter**
+<p>
+</br>
+<img hight="320" width="450" alt="naruto" align="right" src="https://i.pinimg.com/originals/55/fc/4b/55fc4bee7c31f0850262da53fa1e3180.gif">
+
+<a href="mailto:agajare@ch.iitr.ac.in">
+  <img align="left" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="gmail" style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="https://www.instagram.com/agajareiitr/">
+  <img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram" style="vertical-align:top; margin:6px 4px">
+</a>  
+ <a href="https://www.linkedin.com/in/agajareiitr/">
+  <img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+</a>
+ 
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+## **Cutie Counter** ##
 <div align="center">
     <p align="center"> </p> 
     <a href=""><img align="center" width=400 src="https://moe-counter.glitch.me/get/@izabellyBrito?theme=rule34"></a><br></br>
       <div style= "display: grid">
-  <a href = "mailto:izabellyjales@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a style="margin-left: -100px" href="https://www.linkedin.com/in//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
   <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </div> 
 
