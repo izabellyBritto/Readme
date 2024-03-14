@@ -56,7 +56,7 @@
 <a href="https://www.instagram.com/agajareiitr/">
   <img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram" style="vertical-align:top; margin:6px 4px">
 </a>  
- <a href="https://www.linkedin.com/in/agajareiitr/">
+ <a href="https://www.linkedin.com/in/izabellyBritto/](https://www.linkedin.com/in/izabelly-cristina-91a8852b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" style="vertical-align:top; margin:6px 4px">
 </a>
  
